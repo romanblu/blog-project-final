@@ -24,7 +24,7 @@
     "web-vitals": "^1.1.1",
     "wysiwyg": "^2.0.0"
   },
-  "proxy": "ec2-3-89-255-211.compute-1.amazonaws.com:5000",
+  "proxy": "http://ec2-3-89-255-211.compute-1.amazonaws.com:5000",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
